@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515267391770",
+    "project_id": "my-notes-id",
+    "storage_bucket": "my-notes-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515267391770:android:41ea773312fbe343ab3ca3",
+        "android_client_info": {
+          "package_name": "com.example.abolfazlnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3_Gu1EQ8sy-PXMEojQHSZMHFAtDvf54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
