@@ -35,7 +35,6 @@ class _VerfiyEmailViewState extends State<VerfiyEmailView> {
           TextButton(
             onPressed: () async {
               await AuthService.firebase().logOut();
-              // ignore: use_build_context_synchronously
               context.read().add(const AuthEventLogOut());
             },
             child: const Text('Restart'),
